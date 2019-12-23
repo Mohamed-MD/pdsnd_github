@@ -177,7 +177,7 @@ def user_stats(df):
 
     print("This took %s seconds." % (time.time() - start_time))
     print('-'*40)
-    
+# to display data in rows    
 def display_data(df):
     """
     Display contents of the CSV file to the display as requested by
